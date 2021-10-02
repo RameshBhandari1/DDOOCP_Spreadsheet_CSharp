@@ -1,0 +1,11 @@
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\bin\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).exe.config
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\bin\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).exe
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\bin\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).pdb
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).csprojAssemblyReference.cache
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh_SIR_Assignment_.Form1.resources
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh_SIR_Assignment_.Properties.Resources.resources
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).csproj.GenerateResource.cache
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).csproj.CoreCompileInputs.cache
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).exe
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh(SIR_Assignment).pdb
+C:\Users\Ramesh K. Bhandari\source\repos\DDOOCP_Assignment_Ramesh(SIR_Assignment)\DDOOCP_Assignment_Ramesh(SIR_Assignment)\obj\Debug\DDOOCP_Assignment_Ramesh_SIR_Assignment_.Bar_Chart.resources
